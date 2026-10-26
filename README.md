@@ -1,5 +1,5 @@
 HelloWorld para la practica-1 en C
-
+Estudiante: Omar Garcia
 
 
 # Como usar este repo?

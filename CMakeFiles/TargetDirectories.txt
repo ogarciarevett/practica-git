@@ -1,0 +1,3 @@
+/Users/omair/projects/unir/unir-videojuegos/activity-1/CMakeFiles/activity_1.dir
+/Users/omair/projects/unir/unir-videojuegos/activity-1/CMakeFiles/edit_cache.dir
+/Users/omair/projects/unir/unir-videojuegos/activity-1/CMakeFiles/rebuild_cache.dir

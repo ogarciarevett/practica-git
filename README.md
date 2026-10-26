@@ -1,1 +1,10 @@
-Empty C/C++ project for UNIR activity-1
+HelloWorld para la practica-1 en C
+
+
+
+# Como usar este repo?
+1. clonar el repositorio
+2. correr en la terminal del repo `clang src/hellow.c -o hellow && ./hellow`
+
+# Prueba de codigo
+![proof](docs/img.png)
